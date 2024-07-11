@@ -6,7 +6,7 @@ This is a simple blog app with Next.js and TypeScript that uses [MUI](https://mu
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/my-blog-app.git
+   git clone [https://github.com/your-username/my-blog-app.git](https://github.com/RadwanSusan/assessment_test)
 
    cd assessment_test
 
